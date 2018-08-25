@@ -2,7 +2,7 @@
 
 ## Introduction
 
-With an increase in technology, social network, and efficiency, human beings have been forced to become more efficient than ever. And with exceedingly intensive expections comes feelings of social resentment, depression, and lack of vigour. Mental illness in the workplace environment is still something that is known but not quite acted upon on a global scale, and hence is a universally-erupting meltdown. 
+With an increase in technology, social network, and efficiency, human beings have been forced to become more efficient than ever. And with exceedingly intensive expectations comes feelings of social resentment, depression, and lack of vigour. Mental illness in the workplace environment is still something that is known but not quite acted upon on a global scale and hence is a universally-erupting meltdown. 
 
 ## Brief description of this project
 
